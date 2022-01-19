@@ -1,8 +1,12 @@
 
 /* Set sans-serif & mono fonts */
-$sans-font: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir,
-"Nimbus Sans L", Roboto, Noto, "Segoe UI", Arial, Helvetica,
-"Helvetica Neue", sans-serif;
+
+//$sans-font: -apple-system, BlinkMacSystemFont, "Inter","Avenir Next", Avenir,
+//"Nimbus Sans L", Roboto, Noto, "Segoe UI", Arial, Helvetica,
+//"Helvetica Neue", sans-serif;
+
+$sans-font: "Inter", "Helvetica Neue", Arial, Helvetica, sans-serif;
+
 $mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
 
 /* Default (light) theme */
